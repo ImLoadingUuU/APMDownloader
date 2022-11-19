@@ -1,0 +1,26 @@
+{
+  "name": "apmmusicdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indextemp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "@discordjs/voice": "^0.13.0",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.1.3",
+    "body-parser": "^1.20.1",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.37.18",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.0",
+    "sodium": "^3.0.2"
+  }
+}
