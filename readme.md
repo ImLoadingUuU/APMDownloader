@@ -1,3 +1,6 @@
+> INFO
+> You need delete all .DS_Store, because it break the code.
+
 # APMDownloader 
 Download Music From APM Music Without Sign Up / Login
 # Install
