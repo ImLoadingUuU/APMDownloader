@@ -1,3 +1,6 @@
+/*
+怕DiscordTW認不出是我寫的,我在這裡標示一下MeTooIDK.
+ */
 const { REST, Routes , Events , Client ,Collection, ActionRowBuilder, ButtonBuilder ,GatewayIntentBits , EmbedBuilder} = require("discord.js");
 const voice = require("@discordjs/voice")
 const axios = require("axios")
@@ -15,9 +18,6 @@ const client =  new Client({
 
 
 
-client.on('ready',(c) => {
-    console.log(`Bot is ready! ${client.user.tag}`)
-})
 
 //** Commmand Handler **//
 client.commands = new Collection()
